@@ -3,6 +3,7 @@ header {
     padding: 20px 0;
 }
 
+/* CSS da página de Produtos */
 .caixa {
     position: relative;
     width: 940px;
@@ -95,6 +96,7 @@ main{
     margin: 0 auto;
 }
 
+/* css da página Contato */
 form{
     margin: 40px 0;
 }
@@ -147,4 +149,38 @@ thead{
 td, th{
     border: solid 1px black;
     padding: 15px 8px;
+}
+
+/* CSS da página inicial */
+.banner{
+    width: 100%;
+}
+
+.titulo-principal{
+    text-align: center;
+    font-size: 2em;
+    margin:0 0 1em;
+    clear: left;
+}
+
+.principal p{
+    margin: 0 0 1em;
+}
+
+.principal strong{
+    font-weight: bold;
+}
+
+.principal em{
+    font-style: italic;
+}
+
+.utensilios{
+    width: 120px;
+    float: left; 
+    margin: 0 20px 20px 0;   
+}
+
+.imagem-beneficios{
+    width: 60%;
 }
