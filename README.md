@@ -1,8 +1,8 @@
 # 🪒 Barbearia Alura
 
-<h1>Projeto desenvolvido ao longo dos primeiros 4 cursos da formação FrontEnd da Alura.</h3>
+## Projeto desenvolvido ao longo dos primeiros 4 cursos da formação FrontEnd da Alura.
 
-<h2>Alguns dos conceitos aplicados:</h2>
+### Alguns dos conceitos aplicados:
 <ul>
 	<li>Estrutura básica do HTML e CSS</li>
 	<li>Utilização de seletores "class" e "id"</li>
